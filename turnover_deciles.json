@@ -1,0 +1,21 @@
+{
+  "deciles": [
+    0.7,
+    2.2,
+    2.8,
+    3.4,
+    3.8,
+    4.2,
+    4.7,
+    5.9,
+    6.7,
+    7.2,
+    36.4
+  ],
+  "sampleSize": 60,
+  "median": 4.2,
+  "asOf": "2026-07-20",
+  "region": "인천",
+  "source": "국토부 실거래(최근12개월 매매) ÷ 네이버 해당평형 세대",
+  "method": "scripts/build_turnover_deciles.py"
+}
